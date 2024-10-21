@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_fragment"
+    app:startDestination="@id/fragment_language_start">
+
+    <fragment
+        android:id="@+id/fragment_language_start"
+        android:name="com.hnk.wallpaper.ui.language.LanguageStartScreenFragment"
+        android:label="LanguageStartScreenFragment"
+        tools:layout="@layout/fragment_language" />
+
+    <fragment
+        android:id="@+id/fragment_language_setting"
+        android:name="com.hnk.wallpaper.ui.language.LanguageSettingFragment"
+        android:label="LanguageSettingScreenFragment"
+        tools:layout="@layout/fragment_language" />
+
+    <fragment
+        android:id="@+id/fragment_intro"
+        android:name="com.hnk.wallpaper.ui.intro.IntroFragment"
+        android:label="IntroFragment"
+        tools:layout="@layout/fragment_intro" />
+
+    <fragment
+        android:id="@+id/fragment_home"
+        android:name="com.hnk.wallpaper.ui.home.HomeFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/fragment_recent"
+        android:name="com.hnk.wallpaper.ui.recent.RecentFragment"
+        android:label="RecentFragment"
+        tools:layout="@layout/fragment_recent" />
+    <fragment
+        android:id="@+id/fragment_featured"
+        android:name="com.hnk.wallpaper.ui.home.featured.FeaturedFragment"
+        android:label="FeaturedFragment"
+        tools:layout="@layout/fragment_featured" />
+    <fragment
+        android:id="@+id/fragment_collection"
+        android:name="com.hnk.wallpaper.ui.home.collections.CollectionsFragment"
+        android:label="CollectionFragment"
+        tools:layout="@layout/fragment_collections" />
+
+    <fragment
+        android:id="@+id/fragment_search"
+        android:name="com.hnk.wallpaper.ui.home.search.SearchFragment"
+        android:label="SearchFragment"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/fragment_favorite"
+        android:name="com.hnk.wallpaper.ui.favorite.FavouriteFragment"
+        android:label="FavoriteFragment"
+        tools:layout="@layout/fragment_favourites" />
+
+    <fragment
+        android:id="@+id/fragment_show_more"
+        android:name="com.hnk.wallpaper.ui.home.featured.showmore.ShowMoreFragment"
+        android:label="ShowMoreFragment"
+        tools:layout="@layout/fragment_show_more" />
+
+    <fragment
+        android:id="@+id/fragment_show_more_collection"
+        android:name="com.hnk.wallpaper.ui.home.collections.showmore.ShowMoreCollectionFragment"
+        android:label="ShowMoreCollectionFragment"
+        tools:layout="@layout/fragment_show_more_collections" />
+
+    <fragment
+        android:id="@+id/fragment_detail"
+        android:name="com.hnk.wallpaper.ui.detail.DetailFragment"
+        android:label="DetailFragment"
+        tools:layout="@layout/fragment_detail" />
+    <fragment
+        android:id="@+id/fragment_download"
+        android:name="com.hnk.wallpaper.ui.download.DownloadFragment"
+        android:label="DownloadFragment"
+        tools:layout="@layout/fragment_download" />
+
+    <fragment
+        android:id="@+id/fragment_privicy"
+        android:name="com.hnk.wallpaper.ui.privicy.PrivacyFragment"
+        android:label="PrivicyFragment"
+        tools:layout="@layout/fragment_privicy" />
+    <fragment
+        android:id="@+id/fragment_filter"
+        android:name="com.hnk.wallpaper.ui.home.featured.showmore.filter.FilterFragment"
+        android:label="FilterFragment"
+        tools:layout="@layout/fragment_filter" />
+
+  <fragment
+        android:id="@+id/fragment_permission"
+        android:name="com.hnk.wallpaper.ui.permission.PermissionFragment"
+        android:label="PermissionFragment"
+        tools:layout="@layout/fragment_permission" />
+
+ <fragment
+        android:id="@+id/fragment_intro_creative"
+        android:name="com.hnk.wallpaper.ui.intro.IntroCreateWallpaperFragment"
+        android:label="IntroCreateWallpaperFragment"
+        tools:layout="@layout/fragment_intro_create_wallpaper" />
+
+<fragment
+        android:id="@+id/fragment_creative"
+        android:name="com.hnk.wallpaper.ui.home.creative.CreativeFragment"
+        android:label="CreativeFragment"
+        tools:layout="@layout/fragment_creative_wallpaper" />
+
+
+</navigation>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="list_intro">
+        <item>walper makes finding and using stylish wallpaper easier than ever. It really is the only wallpaper app you need.</item>
+        <item>With new Wallpapers added every week, you\'ll be sure to find the perfect paper for your space. Select from our many categories like abstract, animals, plants, world maps and more!</item>
+        <item>Searching the internet for wallpapers takes too much time! Walper is the first app of its kind to deliver a curated selection of wallpaper designs hand- picked.YouIll always find what youlre looking for and something new every time.</item>
+    </string-array>
+    <string-array name="list_intro_bottom">
+        <item>create unique wallpapers.</item>
+        <item>your personal collection.</item>
+        <item>just one tap!</item>
+    </string-array>
+    <string-array name="list_intro_top">
+        <item>Upload your photos and </item>
+        <item>Select your favorite images from </item>
+        <item>Set your photos as wallpapers with </item>
+    </string-array>
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+    <string-array name="list_title">
+        <item>Only wallpaper app ! You\'ll need.</item>
+        <item>Choose from various Collections</item>
+        <item>Stay updated, don\'t miss out.</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Exclusive</item>
+        <item>Recent</item>
+        <item>Trending</item>
+    </string-array>
+    <color name="backgroud_search">#FFFFFFFF</color>
+    <color name="background_btn_dialog">#2A303E</color>
+    <color name="background_color_dialog">#FFFFFF</color>
+    <color name="background_selected">#80E5EBF1</color>
+    <color name="black">#FF000000</color>
+    <color name="border_search">#887EF9</color>
+    <color name="bottom_bar_374151">#374151</color>
+    <color name="custom_bg_arrow">#E3E3E3</color>
+    <color name="tab_selected_text_color">#887EF9</color>
+    <color name="text_color_collection">#000000</color>
+    <color name="text_color_content_1">#898C94</color>
+    <color name="text_color_drawer">#FFFFFF</color>
+    <color name="text_color_title">#2A303E</color>
+    <color name="theme_color">#FEFEFE</color>
+    <color name="theme_color_bottom_sheet">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="wallpaper_037EE5">#037EE5</color>
+    <color name="wallpaper_887EF9">#887EF9</color>
+    <color name="wallpaper_FAFBFD">#FAFBFD</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Creative">Creative</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">listed wallpapers from abstract collection</string>
+    <string name="_2690_wallpapers">2690 Wallpapers</string>
+    <string name="allow">Allow</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Allow Wallpaper to access photos on this device</string>
+    <string name="app_name">Wallpaper</string>
+    <string name="apply">Apply</string>
+    <string name="are_you_sure_want_to_remove_this_item">Are you sure want to remove this item?</string>
+    <string name="author">Author</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">Beautiful free stock photos with over 1 million photos shared by our talented community.</string>
+    <string name="both">Both</string>
+    <string name="category">Category</string>
+    <string name="collection">Collection</string>
+    <string name="collections">Collections</string>
+    <string name="colorful">Colorful</string>
+    <string name="content_permission">To use a photo as wallpaper, please allow Wallpaper to access your photos and videos.</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Create your own wallpaper from your collection</string>
+    <string name="crop_wallpaper">Crop Wallpaper</string>
+    <string name="curated">Curated</string>
+    <string name="curated_wallpaper">Curated Wallpaper</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="delete">Delete</string>
+    <string name="done">Done</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results">Donit see what you need? Add some filters to narrow down your results.</string>
+    <string name="download">Download</string>
+    <string name="download_success">Download success</string>
+    <string name="downloading_please_wait">Downloading, please wait…</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="enjoying_chat_app">Enjoying Wallpaper App</string>
+    <string name="exclusive_first">Exclusive First</string>
+    <string name="explore_our_millions_of_wallpapers">Explore our millions of wallpapers</string>
+    <string name="favorites">Favorites</string>
+    <string name="featured">Featured.</string>
+    <string name="filters">Filters</string>
+    <string name="get_started">Get Started</string>
+    <string name="go_to_settings">Go to settings</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Here are all the wallpapers you\'ve viewed recently</string>
+    <string name="home">Home</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="how_would_you_rate_our_service">How would you rate our service?</string>
+    <string name="intro_item_1">walper makes finding and using stylish wallpaper easier than ever. it really is the only wallpaper app you need.</string>
+    <string name="intro_item_2">With new Wallpapers added every week, you\'ll be sure to find the perfect paper for your space. Select from our many categories like abstract, animals, plants, world maps and more!</string>
+    <string name="intro_item_3">Searching the internet for wallpapers takes too much time! Walper is the first app of its kind to deliver a curated selection of wallpaper designs hand-picked. You’ll always find what you’re looking for and something new every time.</string>
+    <string name="language">Language</string>
+    <string name="latest_uploads">Latest Uploads</string>
+    <string name="loading">Loading ...</string>
+    <string name="lock_screen">Lock Screen</string>
+    <string name="maybe_latter">Maybe latter</string>
+    <string name="most_downloaded">Most Downloaded</string>
+    <string name="network">Network connection has been restored</string>
+    <string name="network_connection_lost">Network Connection Lost</string>
+    <string name="newest_collection">Newest Collection</string>
+    <string name="next">Next</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="notification">Notification</string>
+    <string name="oh_no_results_found">Oh no results found</string>
+    <string name="oh_no_wallpaper_downloaded">Oh, you haven\'t downloaded any wallpapers yet.</string>
+    <string name="oops_no_favorites_to_display">No favorites to display</string>
+    <string name="permission_picture">permission picture</string>
+    <string name="photo">Photo</string>
+    <string name="please_check_your_internet_connection_and_try_again">Please check your internet connection and try again</string>
+    <string name="please_download_wallpaper_first">Please download wallpaper first</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="quick_apply">Quick Apply</string>
+    <string name="rate_now">Rate now</string>
+    <string name="rate_this_app">Rate this App</string>
+    <string name="recent">Recent</string>
+    <string name="remove_favorite">Remove from favorites</string>
+    <string name="remove_item">Remove item?</string>
+    <string name="save_to_my_favorite">Save to my favorite</string>
+    <string name="search">Search</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">searching through hundreds of photos will be so much easier now.</string>
+    <string name="select_action">Select action</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="share_with_friend">Share with friend</string>
+    <string name="skip">Skip</string>
+    <string name="sort_by_size">Sort By Size</string>
+    <string name="switch_to_day_mode">Switch to day mode</string>
+    <string name="switch_to_night_mode">Switch to night mode</string>
+    <string name="these_are_the_wallpapers_you_downloaded">These are the wallpapers you downloaded</string>
+    <string name="title_item_4">Only wallpaper app! You\'ll need.</string>
+    <string name="title_item_5">Choose from various Collections</string>
+    <string name="title_item_6">Stay updated, don\'t miss out.</string>
+    <string name="trending">Trending</string>
+    <string name="use_offline">Use Offline</string>
+    <string name="use_your_photo_as_wallpaper">Use your photo as wallpaper</string>
+    <string name="vietnamese">Vietnamese</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="wallpaper_set_failure">Failed to set wallpaper. Please try again.</string>
+    <string name="wallpaper_set_success">Wallpaper set successfully!</string>
+    <string name="you_are_offline">You are offline</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite">You have marked these wallpapers as favorites!</string>
+    <style name="Base.Theme.Wallpaper" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="BottomCreateStoryStyle" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">adjustNothing</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+
+    </style>
+    <style name="CustomBottomNavigationView" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="itemBackground">@android:color/transparent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="CustomBottomSheetDialogTheme" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+    </style>
+    <style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">#00000000</item>
+        <item name="android:navigationBarColor">#263340</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowSoftInputMode">adjustNothing</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:forceDarkAllowed" ns1:targetApi="q">false</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:layout_marginBottom">0dp</item>
+    </style>
+    <style name="CustomSpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:textAppearance">@style/CustomSpinnerTextAppearance</item>
+    </style>
+    <style name="CustomSpinnerTextAppearance">
+        <item name="android:fontFamily">@font/inter_24pt_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+    <style name="Theme.Wallpaper" parent="Base.Theme.Wallpaper"/>
+</resources>

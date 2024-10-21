@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.hnk.wallpaper.app-mergeDebugResources-87:/layout-night-v8/activity_splash.xml",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/activity_splash.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-mergeDebugResources-87:/layout-night-v8/fragment_intro_create_wallpaper.xml",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/fragment_intro_create_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-mergeDebugResources-87:/layout-night-v8/dialog_loading_set_wallpaper.xml",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/dialog_loading_set_wallpaper.xml"
+    }
+]

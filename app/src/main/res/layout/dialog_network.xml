@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <FrameLayout
+        android:id="@+id/view_bg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/theme_color"
+        >
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="@dimen/_15sdp"
+            android:background="@drawable/custom_bg_dialog"
+            android:padding="@dimen/_15sdp">
+
+            <ImageView
+                android:id="@+id/im_network"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/im_no_internet_ill"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@id/tv_content_permission"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_title"
+                android:paddingHorizontal="@dimen/_15sdp"
+                android:text="@string/network_connection_lost"
+                android:textSize="20sp"
+                android:fontFamily="@font/inter_24pt_bold"
+                android:textColor="@color/text_color_title"
+                android:gravity="center"
+                app:layout_constraintTop_toBottomOf="@id/im_network"
+                />
+
+            <TextView
+                android:id="@+id/tv_content_permission"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingHorizontal="@dimen/_15sdp"
+                android:text="@string/please_check_your_internet_connection_and_try_again"
+                android:textSize="18sp"
+                android:fontFamily="@font/inter_18pt_regular"
+                android:textColor="@color/text_color_title"
+                android:gravity="center"
+                app:layout_constraintBottom_toTopOf="@id/tv_go_to_setting"
+                app:layout_constraintTop_toBottomOf="@id/tv_title" />
+
+            <TextView
+                android:id="@+id/tv_go_to_setting"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_25sdp"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintLeft_toLeftOf="parent"
+                android:background="@drawable/custom_bg_btn"
+                android:gravity="center"
+                android:paddingVertical="@dimen/_15sdp"
+                android:text="@string/go_to_settings"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@id/tv_content_permission" />
+
+            <TextView
+                android:id="@+id/tv_use_offline"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:fontFamily="@font/inter_18pt_regular"
+                android:paddingVertical="@dimen/_12sdp"
+                android:text="@string/use_offline"
+                android:textColor="@color/text_color_title"
+                android:textSize="18sp"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tv_go_to_setting" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </FrameLayout>
+</layout>

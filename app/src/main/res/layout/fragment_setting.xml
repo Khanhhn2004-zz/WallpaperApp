@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:background="@color/theme_color">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:fontFamily="@font/inter_24pt_bold"
+            android:text="Settings"
+            android:textColor="@color/text_color_title"
+            android:textSize="26sp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="HardcodedText" />
+
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+            android:id="@+id/tv_language"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_15sdp"
+            android:text="@string/language"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_language_square"
+            app:drawableRightCompat="@drawable/ic_forward"
+            app:layout_constraintTop_toBottomOf="@id/tv_title" />
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+            android:id="@+id/tv_dark_theme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"            android:paddingVertical="@dimen/_15sdp"
+            android:text="@string/dark_theme"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_moon"
+            app:layout_constraintTop_toBottomOf="@id/tv_language" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/sw_dark_theme"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ripple_rectangle"
+            android:layout_marginEnd="@dimen/_16sdp"
+            app:layout_constraintBottom_toBottomOf="@id/tv_dark_theme"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tv_dark_theme" />
+
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+            android:id="@+id/tv_enable_notifications"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_15sdp"
+            android:text="@string/enable_notifications"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_notification"
+            app:layout_constraintTop_toBottomOf="@id/tv_dark_theme" />
+
+        <com.google.android.material.switchmaterial.SwitchMaterial
+            android:id="@+id/sw_enable_notifications"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_16sdp"
+            app:layout_constraintBottom_toBottomOf="@id/tv_enable_notifications"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tv_enable_notifications" />
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+            android:id="@+id/tv_privicy"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_15sdp"
+            android:text="@string/privacy_policy"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_document_text"
+            app:drawableRightCompat="@drawable/ic_forward"
+            app:layout_constraintTop_toBottomOf="@id/tv_enable_notifications" />
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+
+            android:id="@+id/tv_rate_this_app"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_15sdp"
+            android:text="@string/rate_this_app"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_star"
+            app:layout_constraintTop_toBottomOf="@id/tv_privicy" />
+
+        <TextView
+            android:background="@drawable/ripple_rectangle"
+            android:id="@+id/tv_share_with_friend"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginVertical="@dimen/_5sdp"
+            android:clickable="true"
+            android:drawablePadding="@dimen/_20sdp"
+            android:ellipsize="end"
+            android:focusable="true"
+            android:maxLines="1"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:textStyle="bold"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:paddingHorizontal="@dimen/_8sdp"
+            android:paddingVertical="@dimen/_15sdp"
+            android:text="Share with friend"
+            android:textColor="@color/text_color_title"
+            android:textSize="18sp"
+            app:drawableLeftCompat="@drawable/ic_share"
+            app:layout_constraintTop_toBottomOf="@id/tv_rate_this_app" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

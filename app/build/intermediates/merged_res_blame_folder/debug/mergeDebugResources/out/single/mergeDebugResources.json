@@ -1,0 +1,866 @@
+[
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_intro_create_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_intro_create_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_name_app.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_name_app.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_document_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_document_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_paint_roller.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_paint_roller.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_arow_right.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_arow_right.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_notification.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_vie_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/vie_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_document_text.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_document_text.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_detail_collections.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_detail_collections.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_info_circle.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_info_circle.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_1.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_1.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_download_complete.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_download_complete.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_portugal_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/portugal_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_selected_language.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_selected_language.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_back.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_back.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_3_night.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_3_night.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_im_background.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/im_background.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_permission.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_permission.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_bottom_sheet_action_item_creative.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/bottom_sheet_action_item_creative.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_corner_radius.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_corner_radius.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_crop_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_crop_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_spinner_item.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_share.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_trash.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_trash.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_permission.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_permission.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_arow_right.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_arow_right.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_rounded_corners_shimmer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/rounded_corners_shimmer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_heart.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_homee.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_homee.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_share_dark.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_share_dark.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_idead.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_idead.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_arrow_left.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_arrow_left.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_plus.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_plus.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_complete.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/complete.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_plus.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_plus.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/navigation_nav_fragment.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/navigation/nav_fragment.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_3.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_3.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_wallpaper_shimmer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_wallpaper_shimmer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_gallery.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_gallery.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_rounded_top_corners.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/rounded_top_corners.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_back_detail.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_back_detail.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_banner.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_banner.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_clock.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_clock.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_search_normal.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_search_normal.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_heart_drawer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_heart_drawer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/menu_menu_bottom.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/menu/menu_bottom.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_collections.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_collections.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_creative_3.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_creative_3.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_document_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_document_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_notification.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_btn_apply.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_btn_apply.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_rate_us_one.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_rate_us_one.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_cancel.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_check.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_check.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_download.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_download.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_arrow_left.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_smartphone.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_smartphone.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_show_more.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_show_more.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_dots_three.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_dots_three.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_loading.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/loading.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_eng_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/eng_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_star.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_check.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_collection_shimer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_collection_shimer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_info_circle.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_info_circle.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_permission_dialog.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_permission_dialog.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_heart__fill.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_heart__fill.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_filter.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_filter.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_dialog.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_dialog.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/font_inter_24pt_bold.ttf.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/font/inter_24pt_bold.ttf"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_import.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_import.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_im_background_night.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/im_background_night.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_arrow.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_arrow.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_element.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_element.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_author.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_author.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_creative_2.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_creative_2.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/color_bottom_nav_color.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_home.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_smartphone.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_smartphone.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_check_circle_24.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_check_circle_24.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_remove_item.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_remove_item.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_btn.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_btn.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_back.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/xml_data_extraction_rules.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_gradient_border.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/gradient_border.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_picture_permission.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_picture_permission.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout-night_activity_splash.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/activity_splash.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_download__drawer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_download__drawer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_creative.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_creative.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_set_wallpaper_scren.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_set_wallpaper_scren.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_photo.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_photo.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_language_square.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_language_square.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_bottom_sheet_action_favorite.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/bottom_sheet_action_favorite.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_crop_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_crop_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_rounded_corners.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/rounded_corners.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_filter.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_filter.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_2.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_2.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_activity_splash.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_trash.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_trash.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_setting.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_image_conten.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_image_conten.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ripple_rectangle.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ripple_rectangle.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_simple_list_item_checked.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/simple_list_item_checked.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_france_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/france_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_detail.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_detail.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_privicy.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_privicy.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_moon.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_moon.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_color_palette.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_color_palette.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_creative_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_creative_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_heart_fill.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_heart_fill.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_share_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_share_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/xml_file_paths.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_error.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/error.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_heart.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_heart.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_no_internet_ill.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_no_internet_ill.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_search_normal_dark.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_search_normal_dark.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_homee.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_homee.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_heart_drawer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_heart_drawer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_set_wallpaper.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/set_wallpaper.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_gallery.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/gallery.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_forward.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_forward.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ripple_circle_dot.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ripple_circle_dot.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_home_drawer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_home_drawer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xhdpi_im_permission.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xhdpi/im_permission.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_setting.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_setting.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_india_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/india_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_element_2.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_element_2.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_home.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/font_inter_18pt_regular.ttf.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/font/inter_18pt_regular.ttf"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_paint_roller.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_paint_roller.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_1_night.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_1_night.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_bottom_sheet_action_item_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/bottom_sheet_action_item_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_sun.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_sun.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout-night_fragment_intro_create_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/fragment_intro_create_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ripple_circle.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ripple_circle.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_moon.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_im_gradient_background.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/im_gradient_background.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_banner_shimmer.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_banner_shimmer.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_loading_set_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_loading_set_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_filter_search.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_filter_search.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_downloading.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/downloading.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_custom_bg_btn_sure.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/custom_bg_btn_sure.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_show_more_collections.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_show_more_collections.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_featured.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_featured.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_bottom_sheet_selected_action.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/bottom_sheet_selected_action.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_custom_checkmark.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_custom_checkmark.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_cancel.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_cancel.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_share_dark.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_share_dark.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_intro.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_intro.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout-night_dialog_loading_set_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout-night/dialog_loading_set_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_search.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_intro_2_night.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_intro_2_night.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_filter.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_filter.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_discover.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_discover.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_menu.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_menu.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_back_detail.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_back_detail.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_search_normal_dark.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_search_normal_dark.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_lock.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_lock.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_recent.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_recent.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_favourites.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_activity_main.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_no_folder.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_no_folder.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/raw_set_wallpaper_night.json.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/raw/set_wallpaper_night.json"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_set_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_set_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_lock.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxxhdpi_im_no_result.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxxhdpi/im_no_result.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_customs_bg_btn_rate_us.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/customs_bg_btn_rate_us.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_bg_dialog_loading.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/bg_dialog_loading.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_menu.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_share_image.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_share_image.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_language.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_language.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_downloading.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_downloading.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_wallpaper.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/wallpaper.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_im_no_favorite.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/im_no_favorite.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_dots_threesvg.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_dots_threesvg.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_intro.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_intro.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_download_error.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_download_error.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_intro_creative_wallpaper.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_intro_creative_wallpaper.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_download.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_download.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_im_background_dark.jpg.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/im_background_dark.jpg"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_collections.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_collections.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_nav_header.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_forward.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_forward.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_ic_search_normal.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/ic_search_normal.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable_ic_gallery.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable/ic_gallery.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-night_gradient_border.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-night/gradient_border.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/drawable-xxhdpi_ita_img.png.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/drawable-xxhdpi/ita_img.png"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/xml_backup_rules.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_fragment_category.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/fragment_category.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_dialog_network.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/dialog_network.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/layout_item_language.xml.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/layout/item_language.xml"
+    },
+    {
+        "merged": "com.hnk.wallpaper.app-debug-88:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.hnk.wallpaper.app-main-90:/mipmap-hdpi/ic_launcher_foreground.webp"
+    }
+]

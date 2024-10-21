@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Papier peint</string>
+    <string name="get_started">Commencer</string>
+    <string name="done">Fait</string>
+    <string name="language">Langue</string>
+    <string name="vietnamese">vietnamien</string>
+    <string name="collections">Collections</string>
+    <string name="featured">En vedette.</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">fonds d\'écran répertoriés de</string>
+    <string name="colorful">Coloré</string>
+    <string name="_2690_wallpapers">2690 Fonds d\'écran</string>
+    <string name="search">Recherche</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">rechercher parmi des centaines de photos sera désormais beaucoup plus facile.</string>
+    <string name="collection">Collection</string>
+    <string name="favorites">Favoris</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite"><![CDATA[Vous avez marqué ces fonds d\'écran comme favoris !]]></string>
+    <string name="oops_no_favorites_to_display">Aucun favori à afficher</string>
+    <string name="filters">Filtres</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results"><![CDATA[Vous ne voyez pas ce dont vous avez besoin \? Ajoutez des filtres pour affiner vos résultats.]]></string>
+    <string name="latest_uploads">Derniers téléchargements</string>
+    <string name="newest_collection">Nouvelle collection</string>
+    <string name="most_downloaded">Les plus téléchargés</string>
+    <string name="exclusive_first">Exclusif d\'abord</string>
+    <string name="sort_by_size">Trier par taille</string>
+    <string name="apply">Appliquer</string>
+    <string name="photo">Photo</string>
+    <string name="author">Auteur</string>
+    <string name="category">Catégorie</string>
+    <string name="trending">Tendance</string>
+    <string name="download">Télécharger</string>
+    <string name="home">Maison</string>
+    <string name="privacy_policy">politique de confidentialité</string>
+    <string name="setting">Paramètre</string>
+    <string name="enable_notifications">Activer les notifications</string>
+    <string name="dark_theme">Thème sombre</string>
+    <string name="rate_this_app">Notez cette application</string>
+    <string name="share_with_friend">Partager avec un ami</string>
+    <string name="notification">Notification</string>
+    <string name="select_action">Sélectionnez une action</string>
+    <string name="save_to_my_favorite">Enregistrer dans mes favoris</string>
+    <string name="delete">Supprimer</string>
+    <string name="share">Partager</string>
+    <string name="no_thanks">Non merci</string>
+    <string name="remove_item"><![CDATA[Supprimer l\'élément \?]]></string>
+    <string name="are_you_sure_want_to_remove_this_item"><![CDATA[Etes-vous sûr de vouloir supprimer cet élément \?]]></string>
+    <string name="downloading_please_wait">Téléchargement, veuillez patienter…</string>
+    <string name="set_wallpaper">Définir le papier peint</string>
+    <string name="quick_apply">Candidature rapide</string>
+    <string name="crop_wallpaper">Fond d\'écran de culture</string>
+    <string name="home_screen">Écran d\'accueil</string>
+    <string name="lock_screen">Écran de verrouillage</string>
+    <string name="both">Les deux</string>
+    <string name="loading">Chargement ...</string>
+    <string name="switch_to_day_mode">Passer en mode jour</string>
+    <string name="switch_to_night_mode">Passer en mode nuit</string>
+    <string name="recent">Récent</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Voici tous les fonds d\'écran que vous avez vus récemment</string>
+    <string name="these_are_the_wallpapers_you_downloaded">Ce sont les fonds d\'écran que vous avez téléchargés</string>
+    <string name="remove_favorite">Supprimer des favoris</string>
+    <string name="allow">Permettre</string>
+    <string name="maybe_latter">Peut-être plus tard</string>
+    <string name="permission_picture">photo d\'autorisation</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Autoriser Wallpaper à accéder aux photos sur cet appareil</string>
+    <string name="use_your_photo_as_wallpaper">Utilisez votre photo comme fond d\'écran</string>
+    <string name="go_to_settings">Aller aux paramètres</string>
+    <string name="content_permission">Pour utiliser une photo comme fond d\'écran, veuillez autoriser Wallpaper à accéder à vos photos et vidéos.</string>
+    <string name="skip">Sauter</string>
+    <string name="next">Suivant</string>
+    <string name="Creative">Créatif</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Créez votre propre fond d\'écran à partir de votre collection</string>
+    <string name="please_download_wallpaper_first">Veuillez d\'abord télécharger le fond d\'écran</string>
+    <string name="curated">Organisé</string>
+    <string name="curated_wallpaper">Fond d\'écran organisé</string>
+    <string name="download_success">Succès du téléchargement</string>
+    <string name="oh_no_wallpaper_downloaded">Oh, vous n\'avez pas encore téléchargé de fonds d\'écran.</string>
+    <string name="oh_no_results_found">Oh, aucun résultat trouvé</string>
+    <string name="wallpaper">Papier peint</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">De belles photos gratuites avec plus d’un million de photos partagées par notre talentueuse communauté.</string>
+    <string name="enjoying_chat_app">Profiter de l\'application Wallpaper</string>
+    <string name="how_would_you_rate_our_service">Comment évalueriez-vous notre service \?</string>
+    <string name="rate_now">Évaluez maintenant</string>
+    <string name="wallpaper_set_success"><![CDATA[Fond d\'écran posé avec succès !]]></string>
+    <string name="wallpaper_set_failure">Échec de la définition du fond d\'écran. Veuillez réessayer.</string>
+    <string name="explore_our_millions_of_wallpapers">Explorez nos millions de fonds d\'écran</string>
+
+    <string-array name="list_intro">
+        <item>Walper rend la recherche et l\'utilisation de papiers peints élégants plus faciles que jamais. C\'est vraiment la seule application de fond d\'écran dont vous avez besoin.</item>
+        <item><![CDATA[Avec de nouveaux fonds d\'écran ajoutés chaque semaine, vous serez sûr de trouver le papier parfait pour votre espace. Faites votre choix parmi nos nombreuses catégories comme les résumés, les animaux, les plantes, les cartes du monde et plus encore !]]></item>
+        <item><![CDATA[Rechercher des fonds d’écran sur Internet prend trop de temps ! Walper est la première application de ce type à proposer une sélection de modèles de papiers peints triés sur le volet. Vous trouverez toujours ce que vous cherchez et quelque chose de nouveau à chaque fois.]]></item>
+    </string-array>
+
+    <string name="intro_item_1">Walper rend la recherche et l\'utilisation de papiers peints élégants plus faciles que jamais. c\'est vraiment la seule application de fond d\'écran dont vous avez besoin.</string>
+    <string name="intro_item_2"><![CDATA[Avec de nouveaux fonds d\'écran ajoutés chaque semaine, vous serez sûr de trouver le papier parfait pour votre espace. Choisissez parmi nos nombreuses catégories comme les résumés, les animaux, les plantes, les cartes du monde et plus encore !]]></string>
+    <string name="intro_item_3"><![CDATA[Rechercher des fonds d’écran sur Internet prend trop de temps ! Walper est la première application de ce type à proposer une sélection de modèles de papiers peints triés sur le volet. Vous trouverez toujours ce que vous cherchez et quelque chose de nouveau à chaque fois.]]></string>
+
+    <string name="title_item_4"><![CDATA[Seule application de fond d\'écran ! Vous en aurez besoin.]]></string>
+    <string name="title_item_5">Choisissez parmi différentes collections</string>
+    <string name="title_item_6">Restez à jour, ne manquez rien.</string>
+
+    <string-array name="list_title">
+        <item>Seule application de fond d\'écran ! Vous en aurez besoin.</item>
+        <item>Choisissez parmi différentes collections</item>
+        <item>Restez à jour, ne manquez rien.</item>
+    </string-array>
+
+    <string-array name="list_intro_top">
+        <item>Téléchargez vos photos et</item>
+        <item>Sélectionnez vos images préférées parmi</item>
+        <item>Définissez vos photos comme fonds d\'écran avec</item>
+    </string-array>
+
+    <string-array name="list_intro_bottom">
+        <item>créez des fonds d\'écran uniques.</item>
+        <item>votre collection personnelle.</item>
+        <item><![CDATA[en un seul clic !]]></item>
+    </string-array>
+
+    <string-array name="spinner_items">
+        <item>Exclusif</item>
+        <item>Récent</item>
+        <item>Tendance</item>
+    </string-array>
+
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+
+</resources>

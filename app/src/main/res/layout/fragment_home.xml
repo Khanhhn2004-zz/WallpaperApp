@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+
+    </data>
+
+    <nl.psdcompany.duonavigationdrawer.views.DuoDrawerLayout
+        android:id="@+id/drawer_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        app:contentScaleClosed="1.0"
+        app:contentScaleOpen="0.7"
+        app:marginFactor="0.6">
+
+
+        <nl.psdcompany.duonavigationdrawer.views.DuoMenuView
+            android:id="@+id/menu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tag="@string/tag_menu">
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/gradient_border"
+                android:paddingTop="@dimen/_30sdp">
+
+                <ImageView
+                    android:id="@+id/im_back"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="end"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:background="@drawable/custom_bg_arrow"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_cancel"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+                <TextView
+                    android:id="@+id/tv_home"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/home"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_home_drawer"
+                    app:layout_constraintBottom_toTopOf="@id/tv_recent" />
+
+
+                <TextView
+                    android:id="@+id/tv_recent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/recent"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_clock"
+                    app:layout_constraintBottom_toTopOf="@id/tv_download" />
+                <TextView
+                    android:id="@+id/tv_download"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/download"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_download__drawer"
+                    app:layout_constraintBottom_toTopOf="@id/tv_language" />
+
+                <TextView
+                    android:id="@+id/tv_language"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/language"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_language_square"
+                    app:layout_constraintBottom_toTopOf="@id/tv_dark_theme" />
+
+                <TextView
+                    android:id="@+id/tv_dark_theme"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/dark_theme"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_moon"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent" />
+
+
+                <TextView
+                    android:id="@+id/tv_enable_notifications"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/enable_notifications"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_notification"
+                    app:layout_constraintTop_toBottomOf="@id/tv_dark_theme" />
+
+                <TextView
+                    android:id="@+id/tv_privicy"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/privacy_policy"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_document_text"
+                    app:layout_constraintTop_toBottomOf="@id/tv_enable_notifications" />
+
+                <TextView
+                    android:id="@+id/tv_rate_this_app"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/rate_this_app"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_star"
+                    app:layout_constraintTop_toBottomOf="@id/tv_privicy" />
+
+                <TextView
+                    android:id="@+id/tv_share_with_friend"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginVertical="@dimen/_5sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:drawablePadding="@dimen/_20sdp"
+                    android:ellipsize="end"
+                    android:focusable="true"
+                    android:fontFamily="@font/inter_18pt_regular"
+                    android:maxLines="1"
+                    android:paddingHorizontal="@dimen/_8sdp"
+                    android:paddingVertical="@dimen/_15sdp"
+                    android:text="@string/share_with_friend"
+                    android:textColor="@color/text_color_drawer"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    app:drawableLeftCompat="@drawable/ic_share"
+                    app:layout_constraintTop_toBottomOf="@id/tv_rate_this_app" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        </nl.psdcompany.duonavigationdrawer.views.DuoMenuView>
+
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:elevation="@dimen/_200sdp"
+            android:tag="@string/tag_content"
+            >
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/theme_color"
+                android:fitsSystemWindows="true"
+                android:paddingTop="@dimen/_30sdp">
+
+                <ImageView
+                    android:id="@+id/im_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_menu"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/im_search"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:background="@drawable/ripple_rectangle"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_search_normal_dark"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+
+                <androidx.viewpager2.widget.ViewPager2
+                    android:id="@+id/view_pager2"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/im_menu" />
+
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/cv_bottom_navigation"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="16dp"
+                    android:layout_marginBottom="16dp"
+                    app:cardCornerRadius="25dp"
+                    app:layout_constraintBottom_toBottomOf="parent">
+
+                    <com.google.android.material.bottomnavigation.BottomNavigationView
+                        android:id="@+id/bottom_navigation"
+                        style="@style/CustomBottomNavigationView"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/bottom_bar_374151"
+                        android:paddingHorizontal="10dp"
+                        android:paddingVertical="@dimen/_2sdp"
+                        app:itemIconSize="25dp"
+                        app:itemIconTint="@color/bottom_nav_color"
+                        app:itemTextColor="@color/bottom_nav_color"
+                        app:layout_behavior="com.google.android.material.behavior.HideBottomViewOnScrollBehavior"
+                        app:menu="@menu/menu_bottom" />
+                </androidx.cardview.widget.CardView>
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.cardview.widget.CardView>
+    </nl.psdcompany.duonavigationdrawer.views.DuoDrawerLayout>
+
+
+</layout>

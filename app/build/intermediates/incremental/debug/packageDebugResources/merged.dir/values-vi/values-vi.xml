@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_intro">
+        <item>walper giúp việc tìm kiếm và sử dụng hình nền phong cách trở nên dễ dàng hơn bao giờ hết. Nó thực sự là ứng dụng hình nền duy nhất bạn cần.</item>
+        <item>Với Hình nền mới được thêm vào mỗi tuần, bạn chắc chắn sẽ tìm được loại giấy hoàn hảo cho không gian của mình. Chọn từ nhiều danh mục của chúng tôi như trừu tượng, động vật, thực vật, bản đồ thế giới và hơn thế nữa!</item>
+        <item>Tìm kiếm hình nền trên internet mất quá nhiều thời gian! Walper là ứng dụng đầu tiên thuộc loại này cung cấp tuyển tập các thiết kế hình nền được tuyển chọn kỹ càng. Bạn sẽ luôn tìm thấy những gì mình đang tìm kiếm và những điều mới mẻ mỗi lần.</item>
+    </string-array>
+    <string-array name="list_intro_bottom">
+        <item>tạo hình nền độc đáo.</item>
+        <item>bộ sưu tập cá nhân của bạn.</item>
+        <item>chỉ một cú chạm!</item>
+    </string-array>
+    <string-array name="list_intro_top">
+        <item>Tải ảnh của bạn lên và</item>
+        <item>Chọn hình ảnh yêu thích của bạn từ</item>
+        <item>Đặt ảnh của bạn làm hình nền với</item>
+    </string-array>
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+    <string-array name="list_title">
+        <item>Chỉ có ứng dụng hình nền! Bạn sẽ cần.</item>
+        <item>Chọn từ các Bộ sưu tập khác nhau</item>
+        <item>Luôn cập nhật, đừng bỏ lỡ.</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Loại trừ</item>
+        <item>Gần đây</item>
+        <item>Xu hướng</item>
+    </string-array>
+    <string name="Creative">Sáng tạo</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">hình nền được liệt kê từ</string>
+    <string name="_2690_wallpapers">2690 Hình nền</string>
+    <string name="allow">Cho phép</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Cho phép Hình nền truy cập ảnh trên thiết bị này</string>
+    <string name="app_name">Hình nền</string>
+    <string name="apply">Áp dụng</string>
+    <string name="are_you_sure_want_to_remove_this_item">Bạn có chắc chắn muốn xóa mục này\?</string>
+    <string name="author">Tác giả</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">Kho ảnh đẹp miễn phí với hơn 1 triệu bức ảnh được chia sẻ bởi cộng đồng tài năng của chúng tôi.</string>
+    <string name="both">Cả hai</string>
+    <string name="category">Loại</string>
+    <string name="collection">Bộ sưu tập</string>
+    <string name="collections">Bộ sưu tập</string>
+    <string name="colorful">đầy màu sắc</string>
+    <string name="content_permission">Để sử dụng ảnh làm hình nền, vui lòng cho phép Hình nền truy cập ảnh và video của bạn.</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Tạo hình nền của riêng bạn từ bộ sưu tập của bạn</string>
+    <string name="crop_wallpaper">Cắt hình nền</string>
+    <string name="curated">tuyển chọn</string>
+    <string name="curated_wallpaper">Hình nền tuyển chọn</string>
+    <string name="dark_theme">Chủ đề tối</string>
+    <string name="delete">Xóa bỏ</string>
+    <string name="done">Xong</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results">Không thấy những gì bạn cần\? Thêm một số bộ lọc để thu hẹp kết quả của bạn.</string>
+    <string name="download">Tải xuống</string>
+    <string name="download_success">Tải xuống thành công</string>
+    <string name="downloading_please_wait">Đang tải xuống, vui lòng đợi…</string>
+    <string name="enable_notifications">Bật thông báo</string>
+    <string name="enjoying_chat_app">Thưởng thức ứng dụng hình nền</string>
+    <string name="exclusive_first">Độc quyền đầu tiên</string>
+    <string name="explore_our_millions_of_wallpapers">Khám phá hàng triệu hình nền của chúng tôi</string>
+    <string name="favorites">Yêu thích</string>
+    <string name="featured">Nổi bật.</string>
+    <string name="filters">Bộ lọc</string>
+    <string name="get_started">Bắt đầu</string>
+    <string name="go_to_settings">Đi tới cài đặt</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Đây là tất cả hình nền bạn đã xem gần đây</string>
+    <string name="home">Trang chủ</string>
+    <string name="home_screen">Màn hình chính</string>
+    <string name="how_would_you_rate_our_service">Bạn đánh giá dịch vụ của chúng tôi như thế nào\?</string>
+    <string name="intro_item_1">walper giúp việc tìm kiếm và sử dụng hình nền phong cách trở nên dễ dàng hơn bao giờ hết. nó thực sự là ứng dụng hình nền duy nhất bạn cần.</string>
+    <string name="intro_item_2">Với Hình nền mới được thêm vào mỗi tuần, bạn chắc chắn sẽ tìm được loại giấy hoàn hảo cho không gian của mình. Chọn từ nhiều danh mục của chúng tôi như trừu tượng, động vật, thực vật, bản đồ thế giới và hơn thế nữa!</string>
+    <string name="intro_item_3">Tìm kiếm hình nền trên internet mất quá nhiều thời gian! Walper là ứng dụng đầu tiên thuộc loại này cung cấp tuyển tập các thiết kế hình nền được chọn lọc kỹ lưỡng. Bạn sẽ luôn tìm thấy những gì bạn đang tìm kiếm và những điều mới mẻ mọi lúc.</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="latest_uploads">Tải lên mới nhất</string>
+    <string name="loading">Đang tải …</string>
+    <string name="lock_screen">Màn hình khóa</string>
+    <string name="maybe_latter">Có lẽ sau này</string>
+    <string name="most_downloaded">Được tải xuống nhiều nhất</string>
+    <string name="newest_collection">Bộ sưu tập mới nhất</string>
+    <string name="next">Kế tiếp</string>
+    <string name="no_thanks">Không, cám ơn</string>
+    <string name="notification">Thông báo</string>
+    <string name="oh_no_results_found">Ồ không tìm thấy kết quả nào</string>
+    <string name="oh_no_wallpaper_downloaded">Ồ, bạn chưa tải xuống bất kỳ hình nền nào.</string>
+    <string name="oops_no_favorites_to_display">Không có mục yêu thích nào để hiển thị</string>
+    <string name="permission_picture">hình ảnh xin phép</string>
+    <string name="photo">Ảnh</string>
+    <string name="please_download_wallpaper_first">Vui lòng tải hình nền trước</string>
+    <string name="privacy_policy">Chính sách bảo mật</string>
+    <string name="quick_apply">Cài đặt nhanh</string>
+    <string name="rate_now">Bình chọn bây giờ</string>
+    <string name="rate_this_app">Xếp hạng ứng dụng này</string>
+    <string name="recent">Gần đây</string>
+    <string name="remove_favorite">Xóa khỏi mục yêu thích</string>
+    <string name="remove_item">Xóa mục\?</string>
+    <string name="save_to_my_favorite">Lưu vào mục yêu thích của tôi</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">việc tìm kiếm qua hàng trăm bức ảnh giờ đây sẽ dễ dàng hơn rất nhiều.</string>
+    <string name="select_action">Chọn hành động</string>
+    <string name="set_wallpaper">Đặt hình nền</string>
+    <string name="setting">Cài đặt</string>
+    <string name="share">Chia sẻ</string>
+    <string name="share_with_friend">Chia sẻ với bạn bè</string>
+    <string name="skip">Bỏ qua</string>
+    <string name="sort_by_size">Sắp xếp theo kích thước</string>
+    <string name="switch_to_day_mode">Chuyển sang chế độ ngày</string>
+    <string name="switch_to_night_mode">Chuyển sang chế độ đêm</string>
+    <string name="these_are_the_wallpapers_you_downloaded">Đây là những hình nền bạn đã tải xuống</string>
+    <string name="title_item_4">Chỉ có ứng dụng hình nền! Bạn sẽ cần.</string>
+    <string name="title_item_5">Chọn từ các Bộ sưu tập khác nhau</string>
+    <string name="title_item_6">Luôn cập nhật, đừng bỏ lỡ.</string>
+    <string name="trending">Xu hướng</string>
+    <string name="use_your_photo_as_wallpaper">Sử dụng ảnh của bạn làm hình nền</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="wallpaper">Hình nền</string>
+    <string name="wallpaper_set_failure">Không đặt được hình nền. Vui lòng thử lại.</string>
+    <string name="wallpaper_set_success">Đã đặt hình nền thành công!</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite">Bạn đã đánh dấu những hình nền này là mục yêu thích!</string>
+</resources>

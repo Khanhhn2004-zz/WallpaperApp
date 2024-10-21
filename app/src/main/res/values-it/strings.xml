@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Carta da parati</string>
+    <string name="get_started">Inizia</string>
+    <string name="done">Fatto</string>
+    <string name="language">Lingua</string>
+    <string name="vietnamese">vietnamita</string>
+    <string name="collections">Collezioni</string>
+    <string name="featured">In primo piano.</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">sfondi elencati da</string>
+    <string name="colorful">Colorato</string>
+    <string name="_2690_wallpapers">2690 Sfondi</string>
+    <string name="search">Ricerca</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">ora cercare tra centinaia di foto sarà molto più semplice.</string>
+    <string name="collection">Collezione</string>
+    <string name="favorites">Preferiti</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite">Hai contrassegnato questi sfondi come preferiti!</string>
+    <string name="oops_no_favorites_to_display">Nessun preferito da visualizzare</string>
+    <string name="filters">Filtri</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results">Non vedi quello che ti serve\? Aggiungi alcuni filtri per restringere i risultati.</string>
+    <string name="latest_uploads">Ultimi caricamenti</string>
+    <string name="newest_collection">Collezione più recente</string>
+    <string name="most_downloaded">I più scaricati</string>
+    <string name="exclusive_first">Primo esclusivo</string>
+    <string name="sort_by_size">Ordina per dimensione</string>
+    <string name="apply">Fare domanda a</string>
+    <string name="photo">Foto</string>
+    <string name="author">Autore</string>
+    <string name="category">Categoria</string>
+    <string name="trending">Tendenza</string>
+    <string name="download">Scaricamento</string>
+    <string name="home">Casa</string>
+    <string name="privacy_policy">politica sulla riservatezza</string>
+    <string name="setting">Collocamento</string>
+    <string name="enable_notifications">Abilita notifiche</string>
+    <string name="dark_theme">Tema oscuro</string>
+    <string name="rate_this_app">Valuta questa app</string>
+    <string name="share_with_friend">Condividi con un amico</string>
+    <string name="notification">Notifica</string>
+    <string name="select_action">Seleziona l\'azione</string>
+    <string name="save_to_my_favorite">Salva nei miei preferiti</string>
+    <string name="delete">Eliminare</string>
+    <string name="share">Condividere</string>
+    <string name="no_thanks">No grazie</string>
+    <string name="remove_item">Rimuovere l\'articolo\?</string>
+    <string name="are_you_sure_want_to_remove_this_item">Sei sicuro di voler rimuovere questo elemento\?</string>
+    <string name="downloading_please_wait">Download in corso, attendere...</string>
+    <string name="set_wallpaper">Imposta lo sfondo</string>
+    <string name="quick_apply">Applicazione rapida</string>
+    <string name="crop_wallpaper">Ritaglia lo sfondo</string>
+    <string name="home_screen">Schermata iniziale</string>
+    <string name="lock_screen">Schermata di blocco</string>
+    <string name="both">Entrambi</string>
+    <string name="loading">Caricamento ...</string>
+    <string name="switch_to_day_mode">Passa alla modalità giorno</string>
+    <string name="switch_to_night_mode">Passa alla modalità notturna</string>
+    <string name="recent">Recente</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Ecco tutti gli sfondi che hai visualizzato di recente</string>
+    <string name="these_are_the_wallpapers_you_downloaded">Questi sono gli sfondi che hai scaricato</string>
+    <string name="remove_favorite">Rimuovi dai preferiti</string>
+    <string name="allow">Permettere</string>
+    <string name="maybe_latter">Forse quest\'ultimo</string>
+    <string name="permission_picture">immagine di autorizzazione</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Consenti a Sfondo di accedere alle foto su questo dispositivo</string>
+    <string name="use_your_photo_as_wallpaper">Usa la tua foto come sfondo</string>
+    <string name="go_to_settings">Vai alle impostazioni</string>
+    <string name="content_permission">Per utilizzare una foto come sfondo, consenti a Sfondo di accedere alle tue foto e ai tuoi video.</string>
+    <string name="skip">Saltare</string>
+    <string name="next">Prossimo</string>
+    <string name="Creative">Creativo</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Crea il tuo sfondo dalla tua collezione</string>
+    <string name="please_download_wallpaper_first">Si prega di scaricare prima lo sfondo</string>
+    <string name="curated">Curato</string>
+    <string name="curated_wallpaper">Sfondo curato</string>
+    <string name="download_success">Scarica il successo</string>
+    <string name="oh_no_wallpaper_downloaded">Oh, non hai ancora scaricato nessuno sfondo.</string>
+    <string name="oh_no_results_found">Oh, nessun risultato trovato</string>
+    <string name="wallpaper">Carta da parati</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">Bellissime foto stock gratuite con oltre 1 milione di foto condivise dalla nostra talentuosa community.</string>
+    <string name="enjoying_chat_app">Divertirsi con l\'app Sfondi</string>
+    <string name="how_would_you_rate_our_service">Come valuteresti il ​​nostro servizio\?</string>
+    <string name="rate_now">Valuta ora</string>
+    <string name="wallpaper_set_success">Sfondo impostato correttamente!</string>
+    <string name="wallpaper_set_failure">Impossibile impostare lo sfondo. Per favore riprova.</string>
+    <string name="explore_our_millions_of_wallpapers">Esplora i nostri milioni di sfondi</string>
+
+    <string-array name="list_intro">
+        <item>Walper rende più facile che mai trovare e utilizzare sfondi eleganti. È davvero l\'unica app per sfondi di cui hai bisogno.</item>
+        <item>Con i nuovi sfondi aggiunti ogni settimana, sarai sicuro di trovare la carta perfetta per il tuo spazio. Scegli tra le nostre numerose categorie come astratti, animali, piante, mappe del mondo e altro ancora!</item>
+        <item>La ricerca di sfondi su Internet richiede troppo tempo! Walper è la prima app nel suo genere a offrire una selezione curata di disegni di carta da parati selezionati con cura. Troverai sempre quello che stai cercando e qualcosa di nuovo ogni volta.</item>
+    </string-array>
+
+    <string name="intro_item_1">Walper rende più facile che mai trovare e utilizzare sfondi eleganti. è davvero l\'unica app per sfondi di cui hai bisogno.</string>
+    <string name="intro_item_2">Con i nuovi sfondi aggiunti ogni settimana, sarai sicuro di trovare la carta perfetta per il tuo spazio. Scegli tra le nostre numerose categorie come astratti, animali, piante, mappe del mondo e altro ancora!</string>
+    <string name="intro_item_3">La ricerca di sfondi su Internet richiede troppo tempo! Walper è la prima app nel suo genere a offrire una selezione curata di disegni di carta da parati selezionati con cura. Troverai sempre quello che cerchi e ogni volta qualcosa di nuovo.</string>
+
+    <string name="title_item_4">Solo app per sfondi! Ne avrai bisogno.</string>
+    <string name="title_item_5">Scegli tra varie collezioni</string>
+    <string name="title_item_6">Rimani aggiornato, non perderlo.</string>
+
+    <string-array name="list_title">
+        <item>Solo app per sfondi! Ne avrai bisogno.</item>
+        <item>Scegli tra varie collezioni</item>
+        <item>Rimani aggiornato, non perdertelo.</item>
+    </string-array>
+
+    <string-array name="list_intro_top">
+        <item>Carica le tue foto e</item>
+        <item>Seleziona le tue immagini preferite da</item>
+        <item>Imposta le tue foto come sfondi con</item>
+    </string-array>
+
+    <string-array name="list_intro_bottom">
+        <item>creare sfondi unici.</item>
+        <item>la tua collezione personale.</item>
+        <item>basta un tocco!</item>
+    </string-array>
+
+    <string-array name="spinner_items">
+        <item>Esclusivo</item>
+        <item>Recente</item>
+        <item>Tendenza</item>
+    </string-array>
+
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+
+</resources>

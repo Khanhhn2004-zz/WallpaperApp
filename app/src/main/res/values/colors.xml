@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="wallpaper_887EF9">#887EF9</color>
+    <color name="theme_color">#FEFEFE</color>
+    <color name="theme_color_bottom_sheet">#FFFFFFFF</color>
+    <color name="text_color_title">#2A303E</color>
+    <color name="text_color_collection">#000000</color>
+    <color name="text_color_drawer">#FFFFFF</color>
+    <color name="text_color_content_1">#898C94</color>
+    <color name="background_selected">#80E5EBF1</color>
+    <color name="wallpaper_037EE5">#037EE5</color>
+    <color name="bottom_bar_374151">#374151</color>
+    <color name="border_search">#887EF9</color>
+    <color name="backgroud_search">#FFFFFFFF</color>
+    <color name="tab_selected_text_color">#887EF9</color>
+    <color name="custom_bg_arrow">#E3E3E3</color>
+    <color name="background_color_dialog">#FFFFFF</color>
+    <color name="background_btn_dialog">#2A303E</color>
+
+    <color name="wallpaper_FAFBFD">#FAFBFD</color>
+
+
+</resources>

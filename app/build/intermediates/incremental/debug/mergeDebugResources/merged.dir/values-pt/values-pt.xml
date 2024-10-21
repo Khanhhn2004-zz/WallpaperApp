@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="list_intro">
+        <item>Walper torna mais fácil do que nunca encontrar e usar papéis de parede elegantes. É realmente o único aplicativo de papel de parede que você precisa.</item>
+        <item>Com novos papéis de parede adicionados toda semana, você certamente encontrará o papel perfeito para o seu espaço. Selecione entre nossas diversas categorias, como abstrato, animais, plantas, mapas mundiais e muito mais!</item>
+        <item>Pesquisar papéis de parede na internet leva muito tempo! Walper é o primeiro aplicativo desse tipo a oferecer uma seleção selecionada de designs de papel de parede escolhidos a dedo. Você sempre encontrará o que procura e sempre algo novo.</item>
+    </string-array>
+    <string-array name="list_intro_bottom">
+        <item>crie papéis de parede exclusivos.</item>
+        <item>sua coleção pessoal.</item>
+        <item>apenas um toque!</item>
+    </string-array>
+    <string-array name="list_intro_top">
+        <item>Envie suas fotos e</item>
+        <item>Selecione suas imagens favoritas de</item>
+        <item>Defina suas fotos como papéis de parede com</item>
+    </string-array>
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+    <string-array name="list_title">
+        <item>Apenas aplicativo de papel de parede! Você vai precisar.</item>
+        <item>Escolha entre várias coleções</item>
+        <item>Fique atualizado, não perca.</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Exclusivo</item>
+        <item>Recente</item>
+        <item>Tendências</item>
+    </string-array>
+    <string name="Creative">Criativo</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">papéis de parede listados de</string>
+    <string name="_2690_wallpapers">2690 papéis de parede</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Selecionar um app"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"DESATIVADO"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"ATIVADO"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espaço"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Pesquisar…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Compartilhar com <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="allow">Permitir</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Permitir que o Wallpaper acesse fotos neste dispositivo</string>
+    <string name="app_name">Papel de parede</string>
+    <string name="apply">Aplicar</string>
+    <string name="are_you_sure_want_to_remove_this_item">Tem certeza de que deseja remover este item\?</string>
+    <string name="author">Autor</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">Lindas fotos gratuitas com mais de 1 milhão de fotos compartilhadas por nossa talentosa comunidade.</string>
+    <string name="both">Ambos</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Atender"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vídeo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Recusar"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Desligar"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Chamada recebida"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Chamada em andamento"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrando uma ligação recebida"</string>
+    <string name="category">Categoria</string>
+    <string msgid="406453423630273620" name="close_drawer">"Fechar menu de navegação"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Fechar planilha"</string>
+    <string name="collection">Coleção</string>
+    <string name="collections">Coleções</string>
+    <string name="colorful">Colorido</string>
+    <string name="content_permission">Para usar uma foto como papel de parede, permita que o Papel de parede acesse suas fotos e vídeos.</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Crie seu próprio papel de parede da sua coleção</string>
+    <string name="crop_wallpaper">Cortar papel de parede</string>
+    <string name="curated">Curadoria</string>
+    <string name="curated_wallpaper">Papel de parede selecionado</string>
+    <string name="dark_theme">Tema escuro</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Entrada inválida"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Janela pop-up"</string>
+    <string name="delete">Excluir</string>
+    <string name="done">Feito</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results">Não vê o que você precisa\? Adicione alguns filtros para restringir seus resultados.</string>
+    <string name="download">Download</string>
+    <string name="download_success">Download com sucesso</string>
+    <string name="downloading_please_wait">Baixando, aguarde…</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu suspenso"</string>
+    <string name="enable_notifications">Habilitar notificações</string>
+    <string name="enjoying_chat_app">Aproveitando o aplicativo de papel de parede</string>
+    <string name="exclusive_first">Exclusivo primeiro</string>
+    <string name="exo_download_completed">Download concluído</string>
+    <string name="exo_download_description">Fazer o download</string>
+    <string name="exo_download_downloading">Fazendo o download</string>
+    <string name="exo_download_failed">Falha no download</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads pausados</string>
+    <string name="exo_download_paused_for_network">Downloads aguardando uma conexão de rede</string>
+    <string name="exo_download_paused_for_wifi">Downloads aguardando uma rede Wi-Fi</string>
+    <string name="exo_download_removing">Removendo downloads</string>
+    <string name="explore_our_millions_of_wallpapers">Explore nossos milhões de papéis de parede</string>
+    <string name="favorites">Favoritos</string>
+    <string name="featured">Apresentou.</string>
+    <string name="filters">Filtros</string>
+    <string name="get_started">Comece</string>
+    <string name="go_to_settings">Vá para as configurações</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Aqui estão todos os papéis de parede que você viu recentemente</string>
+    <string name="home">Lar</string>
+    <string name="home_screen">Tela inicial</string>
+    <string name="how_would_you_rate_our_service">Como você avaliaria nosso serviço\?</string>
+    <string msgid="6827826412747255547" name="in_progress">"Em andamento"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Parcialmente selecionada"</string>
+    <string name="intro_item_1">Walper torna mais fácil do que nunca encontrar e usar papéis de parede elegantes. é realmente o único aplicativo de papel de parede que você precisa.</string>
+    <string name="intro_item_2">Com novos papéis de parede adicionados toda semana, você certamente encontrará o papel perfeito para o seu espaço. Selecione entre nossas diversas categorias, como abstrato, animais, plantas, mapas mundiais e muito mais!</string>
+    <string name="intro_item_3">Pesquisar papéis de parede na internet leva muito tempo! Walper é o primeiro aplicativo desse tipo a oferecer uma seleção selecionada de designs de papel de parede escolhidos a dedo. Você sempre encontrará o que procura e sempre algo novo.</string>
+    <string name="language">Linguagem</string>
+    <string name="latest_uploads">Últimos envios</string>
+    <string name="loading">Carregando ...</string>
+    <string name="lock_screen">Tela de bloqueio</string>
+    <string name="maybe_latter">Talvez mais tarde</string>
+    <string name="most_downloaded">Mais baixados</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Navegar para cima"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Abrir gaveta de navegação"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu de navegação"</string>
+    <string name="newest_collection">Coleção mais recente</string>
+    <string name="next">Próximo</string>
+    <string name="no_thanks">Não, obrigado</string>
+    <string msgid="6610465462668679431" name="not_selected">"Não selecionado"</string>
+    <string name="notification">Notificação</string>
+    <string msgid="875452955155264703" name="off">"Desativado"</string>
+    <string name="oh_no_results_found">Ah, nenhum resultado encontrado</string>
+    <string name="oh_no_wallpaper_downloaded">Ah, você ainda não baixou nenhum papel de parede.</string>
+    <string msgid="8655164131929253426" name="on">"Ativado"</string>
+    <string name="oops_no_favorites_to_display">Não há favoritos para exibir</string>
+    <string name="permission_picture">imagem de permissão</string>
+    <string name="photo">Foto</string>
+    <string name="please_download_wallpaper_first">Baixe o papel de parede primeiro</string>
+    <string name="privacy_policy">política de Privacidade</string>
+    <string name="quick_apply">Aplicação rápida</string>
+    <string msgid="5941395253238309765" name="range_end">"Fim do intervalo"</string>
+    <string msgid="7097486360902471446" name="range_start">"Início do intervalo"</string>
+    <string name="rate_now">Avalie agora</string>
+    <string name="rate_this_app">Avalie este aplicativo</string>
+    <string name="recent">Recente</string>
+    <string name="remove_favorite">Remover dos favoritos</string>
+    <string name="remove_item">Remover item\?</string>
+    <string name="save_to_my_favorite">Salvar nos meus favoritos</string>
+    <string name="search">Procurar</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Pesquisar"</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">pesquisar centenas de fotos será muito mais fácil agora.</string>
+    <string name="select_action">Selecione a ação</string>
+    <string msgid="6043586758067023" name="selected">"Selecionado"</string>
+    <string name="set_wallpaper">Definir papel de parede</string>
+    <string name="setting">Contexto</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_with_friend">Compartilhe com um amigo</string>
+    <string name="skip">Pular</string>
+    <string name="sort_by_size">Classificar por tamanho</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Chave"</string>
+    <string name="switch_to_day_mode">Mudar para o modo diurno</string>
+    <string name="switch_to_night_mode">Mudar para o modo noturno</string>
+    <string msgid="1672349317127674378" name="tab">"Guia"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g>%%"</string>
+    <string name="these_are_the_wallpapers_you_downloaded">Estes são os papéis de parede que você baixou</string>
+    <string name="title_item_4">Apenas aplicativo de papel de parede! Você vai precisar.</string>
+    <string name="title_item_5">Escolha entre várias coleções</string>
+    <string name="title_item_6">Fique atualizado, não perca.</string>
+    <string name="trending">Tendências</string>
+    <string name="ucrop_crop">Cortar</string>
+    <string name="ucrop_label_edit_photo">Editar Foto</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Cortar</string>
+    <string name="ucrop_rotate">Girar</string>
+    <string name="ucrop_scale">Tamanho</string>
+    <string name="use_your_photo_as_wallpaper">Use sua foto como papel de parede</string>
+    <string name="vietnamese">vietnamita</string>
+    <string name="wallpaper">Papel de parede</string>
+    <string name="wallpaper_set_failure">Falha ao definir o papel de parede. Por favor, tente novamente.</string>
+    <string name="wallpaper_set_success">Papel de parede definido com sucesso!</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite">Você marcou esses papéis de parede como favoritos!</string>
+</resources>

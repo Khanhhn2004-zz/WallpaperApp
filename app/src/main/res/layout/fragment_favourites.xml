@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/theme_color">
+
+
+        <ImageView
+            android:id="@+id/im_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_16sdp"
+            android:background="@drawable/custom_bg_arrow"
+            android:clickable="true"
+            android:visibility="gone"
+            android:focusable="true"
+            android:padding="@dimen/_8sdp"
+            android:src="@drawable/ic_filter"
+            app:layout_constraintBottom_toBottomOf="@id/tv_size_result"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tv_name_collection" />
+
+
+        <TextView
+            android:id="@+id/tv_name_collection"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_16sdp"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:layout_marginEnd="@dimen/_20sdp"
+            android:fontFamily="@font/inter_24pt_bold"
+            android:text="@string/favorites"
+            android:textSize="@dimen/_18sdp"
+            android:textColor="@color/text_color_title"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/im_filter"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_size_result"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_16sdp"
+            android:layout_marginEnd="@dimen/_20sdp"
+            android:fontFamily="@font/inter_18pt_regular"
+            android:text="@string/you_ve_marked_all_of_these_as_a_favorite"
+            android:textSize="15sp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/im_filter"
+            app:layout_constraintTop_toBottomOf="@id/tv_name_collection" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rcl_favorite"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginHorizontal="@dimen/_8sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:clipToPadding="false"
+            android:paddingBottom="@dimen/_150sdp"
+            android:visibility="visible"
+            app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_size_result"
+            app:spanCount="2"
+            tools:listitem="@layout/item_wallpaper" />
+
+        <ImageView
+            android:id="@+id/im_no_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/im_no_favorite"
+            android:visibility="gone"
+            android:layout_marginBottom="@dimen/_40sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_no_favorite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_16sdp"
+            android:fontFamily="@font/inter_24pt_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_13sdp"
+            android:text="@string/oops_no_favorites_to_display"
+            android:textColor="@color/text_color_title"
+            android:textSize="17sp"
+            android:visibility="gone"
+            app:layout_constraintTop_toBottomOf="@id/im_no_favorite" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

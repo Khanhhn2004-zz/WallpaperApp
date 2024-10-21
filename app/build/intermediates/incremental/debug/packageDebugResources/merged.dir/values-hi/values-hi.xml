@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_intro">
+        <item>वॉल्पर स्टाइलिश वॉलपेपर ढूंढना और उपयोग करना पहले से कहीं अधिक आसान बना देता है। यह वास्तव में एकमात्र वॉलपेपर ऐप है जिसकी आपको आवश्यकता है।</item>
+        <item>हर सप्ताह जोड़े गए नए वॉलपेपर के साथ, आप निश्चित रूप से अपने स्थान के लिए सही पेपर ढूंढ पाएंगे। हमारी कई श्रेणियों जैसे अमूर्त, जानवर, पौधे, विश्व मानचित्र और बहुत कुछ में से चयन करें!</item>
+        <item>वॉलपेपर के लिए इंटरनेट पर खोज करने में बहुत अधिक समय लगता है! वाल्पर हाथ से चुने गए वॉलपेपर डिज़ाइनों का क्यूरेटेड चयन प्रदान करने वाला अपनी तरह का पहला ऐप है। आप हमेशा वही पाएंगे जो आप ढूंढ रहे हैं और हर बार कुछ नया।</item>
+    </string-array>
+    <string-array name="list_intro_bottom">
+        <item>अद्वितीय वॉलपेपर बनाएं।</item>
+        <item>आपका व्यक्तिगत संग्रह.</item>
+        <item>बस एक टैप!</item>
+    </string-array>
+    <string-array name="list_intro_top">
+        <item>अपनी तस्वीरें अपलोड करें और</item>
+        <item>इनमें से अपनी पसंदीदा छवियां चुनें</item>
+        <item>अपनी तस्वीरों को वॉलपेपर के रूप में सेट करें</item>
+    </string-array>
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+    <string-array name="list_title">
+        <item>केवल वॉलपेपर ऐप! तुम्हें लगेगा।</item>
+        <item>विभिन्न संग्रहों में से चुनें</item>
+        <item>अपडेट रहें, चूकें नहीं।</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>अनन्य</item>
+        <item>हाल ही का</item>
+        <item>रुझान</item>
+    </string-array>
+    <string name="Creative">रचनात्मक</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">से सूचीबद्ध वॉलपेपर</string>
+    <string name="_2690_wallpapers">2690 वॉलपेपर</string>
+    <string name="allow">अनुमति दें</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">वॉलपेपर को इस डिवाइस पर फ़ोटो तक पहुंचने की अनुमति दें</string>
+    <string name="app_name">वॉलपेपर</string>
+    <string name="apply">आवेदन करना</string>
+    <string name="are_you_sure_want_to_remove_this_item">क्या आप वाकई इस आइटम को हटाना चाहते हैं\?</string>
+    <string name="author">लेखक</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">हमारे प्रतिभाशाली समुदाय द्वारा साझा की गई 1 मिलियन से अधिक तस्वीरों के साथ सुंदर निःशुल्क स्टॉक तस्वीरें।</string>
+    <string name="both">दोनों</string>
+    <string name="category">वर्ग</string>
+    <string name="collection">संग्रह</string>
+    <string name="collections">संग्रह</string>
+    <string name="colorful">रंगीन</string>
+    <string name="content_permission">किसी फ़ोटो को वॉलपेपर के रूप में उपयोग करने के लिए, कृपया वॉलपेपर को अपनी फ़ोटो और वीडियो तक पहुंचने की अनुमति दें।</string>
+    <string name="create_your_own_wallpaper_from_your_collection">अपने संग्रह से अपना खुद का वॉलपेपर बनाएं</string>
+    <string name="crop_wallpaper">फसल वॉलपेपर</string>
+    <string name="curated">क्यूरेट किए गए</string>
+    <string name="curated_wallpaper">क्यूरेटेड वॉलपेपर</string>
+    <string name="dark_theme">डार्क थीम</string>
+    <string name="delete">मिटाना</string>
+    <string name="done">हो गया</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results">क्या आप नहीं देखते कि आपको क्या चाहिए\? अपने परिणामों को सीमित करने के लिए कुछ फ़िल्टर जोड़ें।</string>
+    <string name="download">डाउनलोड करना</string>
+    <string name="download_success">सफलता डाउनलोड करें</string>
+    <string name="downloading_please_wait">डाउनलोड हो रहा है, कृपया प्रतीक्षा करें...</string>
+    <string name="enable_notifications">सूचनाएं सक्षम करें</string>
+    <string name="enjoying_chat_app">वॉलपेपर ऐप का आनंद ले रहे हैं</string>
+    <string name="exclusive_first">विशेष प्रथम</string>
+    <string name="explore_our_millions_of_wallpapers">हमारे लाखों वॉलपेपर देखें</string>
+    <string name="favorites">पसंदीदा</string>
+    <string name="featured">विशेष रुप से प्रदर्शित।</string>
+    <string name="filters">फिल्टर</string>
+    <string name="get_started">शुरू हो जाओ</string>
+    <string name="go_to_settings">सेटिंग्स में जाओ</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">यहां वे सभी वॉलपेपर हैं जिन्हें आपने हाल ही में देखा है</string>
+    <string name="home">घर</string>
+    <string name="home_screen">होम स्क्रीन</string>
+    <string name="how_would_you_rate_our_service">आप हमारी सेवा का मूल्यांकन कैसे करेंगे\?</string>
+    <string name="intro_item_1">वॉल्पर स्टाइलिश वॉलपेपर ढूंढना और उपयोग करना पहले से कहीं अधिक आसान बना देता है। यह वास्तव में एकमात्र वॉलपेपर ऐप है जिसकी आपको आवश्यकता है।</string>
+    <string name="intro_item_2">हर सप्ताह जोड़े गए नए वॉलपेपर के साथ, आप निश्चित रूप से अपने स्थान के लिए सही पेपर ढूंढ पाएंगे। हमारी कई श्रेणियों जैसे अमूर्त, जानवर, पौधे, विश्व मानचित्र और बहुत कुछ में से चयन करें!</string>
+    <string name="intro_item_3">वॉलपेपर के लिए इंटरनेट पर खोज करने में बहुत अधिक समय लगता है! वाल्पर हाथ से चुने गए वॉलपेपर डिज़ाइनों का क्यूरेटेड चयन प्रदान करने वाला अपनी तरह का पहला ऐप है। आप हमेशा वही पाएंगे जो आप खोज रहे हैं और हर बार कुछ नया होगा।</string>
+    <string name="language">भाषा</string>
+    <string name="latest_uploads">नवीनतम अपलोड</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="lock_screen">लॉक स्क्रीन</string>
+    <string name="maybe_latter">शायद बाद वाला</string>
+    <string name="most_downloaded">सर्वाधिक डाउनलोड किया गया</string>
+    <string name="newest_collection">नवीनतम संग्रह</string>
+    <string name="next">अगला</string>
+    <string name="no_thanks">जी नहीं, धन्यवाद</string>
+    <string name="notification">अधिसूचना</string>
+    <string name="oh_no_results_found">ओह कोई परिणाम नहीं मिला</string>
+    <string name="oh_no_wallpaper_downloaded">ओह, आपने अभी तक कोई वॉलपेपर डाउनलोड नहीं किया है।</string>
+    <string name="oops_no_favorites_to_display">प्रदर्शित करने के लिए कोई पसंदीदा नहीं</string>
+    <string name="permission_picture">अनुमति चित्र</string>
+    <string name="photo">तस्वीर</string>
+    <string name="please_download_wallpaper_first">कृपया पहले वॉलपेपर डाउनलोड करें</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="quick_apply">शीघ्र आवेदन करें</string>
+    <string name="rate_now">अब रेट करें</string>
+    <string name="rate_this_app">इस ऐप्लिकेशन को रेट करें</string>
+    <string name="recent">हाल ही का</string>
+    <string name="remove_favorite">पसंदीदा से हटाएँ</string>
+    <string name="remove_item">वस्तु निकालें\?</string>
+    <string name="save_to_my_favorite">मेरे पसंदीदा में सहेजें</string>
+    <string name="search">खोज</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">सैकड़ों फ़ोटो खोजना अब बहुत आसान हो जाएगा।</string>
+    <string name="select_action">कार्रवाई चुनें</string>
+    <string name="set_wallpaper">वॉलपेपर सेट करो</string>
+    <string name="setting">सेटिंग</string>
+    <string name="share">शेयर करना</string>
+    <string name="share_with_friend">मित्र के साथ साझा करें</string>
+    <string name="skip">छोडना</string>
+    <string name="sort_by_size">आकार के अनुसार छंटाई करें</string>
+    <string name="switch_to_day_mode">दिन मोड पर स्विच करें</string>
+    <string name="switch_to_night_mode">रात्रि मोड पर स्विच करें</string>
+    <string name="these_are_the_wallpapers_you_downloaded">ये वे वॉलपेपर हैं जिन्हें आपने डाउनलोड किया है</string>
+    <string name="title_item_4">केवल वॉलपेपर ऐप! तुम्हें लगेगा।</string>
+    <string name="title_item_5">विभिन्न संग्रहों में से चुनें</string>
+    <string name="title_item_6">अपडेट रहें, चूकें नहीं।</string>
+    <string name="trending">रुझान</string>
+    <string name="use_your_photo_as_wallpaper">वॉलपेपर के रूप में अपनी फोटो का प्रयोग करें</string>
+    <string name="vietnamese">वियतनामी</string>
+    <string name="wallpaper">वॉलपेपर</string>
+    <string name="wallpaper_set_failure">वॉलपेपर सेट करने में विफल. कृपया पुन: प्रयास करें।</string>
+    <string name="wallpaper_set_success">वॉलपेपर सफलतापूर्वक सेट हो गया!</string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite">आपने इन वॉलपेपर को पसंदीदा के रूप में चिह्नित किया है!</string>
+</resources>

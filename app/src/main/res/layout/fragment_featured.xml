@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+    </data>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:background="@color/theme_color">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_16sdp"
+                android:fontFamily="@font/inter_24pt_bold"
+                android:text="@string/featured"
+                android:textColor="@color/text_color_title"
+                android:textSize="26sp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+
+            <com.facebook.shimmer.ShimmerFrameLayout
+                android:id="@+id/shimmer_banner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@id/tv_title">
+
+                <include layout="@layout/item_banner_shimmer" />
+
+            </com.facebook.shimmer.ShimmerFrameLayout>
+
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/pg_featured_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_8sdp"
+                app:layout_constraintTop_toBottomOf="@id/tv_title" />
+
+            <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+                android:id="@+id/dotsIndicator"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_20sdp"
+                app:dotsColor="#D3D3D3"
+                app:dotsSize="@dimen/_7sdp"
+                app:dotsSpacing="@dimen/_2sdp"
+                app:dotsStrokeWidth="2dp"
+                app:layout_constraintBottom_toBottomOf="@id/pg_featured_1"
+                app:layout_constraintLeft_toLeftOf="@id/pg_featured_1"
+                app:layout_constraintRight_toRightOf="@id/pg_featured_1"
+                app:selectedDotColor="@color/bottom_bar_374151" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/v_show_more"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@id/shimmer_banner">
+                <TextView
+                    android:id="@+id/tv_curated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:textSize="20sp"
+                    android:textColor="@color/text_color_title"
+                    android:text="@string/curated_wallpaper"
+                    android:fontFamily="@font/inter_24pt_bold"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <ImageView
+                    android:id="@+id/im_show_more_curated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:background="@drawable/custom_bg_arrow"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_arow_right"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_curated"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/tv_curated" />
+
+                <com.facebook.shimmer.ShimmerFrameLayout
+                    android:id="@+id/shimmer_view_wallpaper_curated"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:layout_constraintTop_toBottomOf="@id/tv_curated"
+                    android:paddingBottom="@dimen/_70sdp"
+                    android:clipToPadding="false"
+                    android:layout_height="wrap_content">
+
+                    <include layout="@layout/item_wallpaper_shimmer" />
+
+                </com.facebook.shimmer.ShimmerFrameLayout>
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcl_wallpaper_curated"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/im_show_more_curated"
+                    app:spanCount="2"
+                    tools:itemCount="10"
+                    tools:listitem="@layout/item_wallpaper" />
+
+                <TextView
+                    android:visibility="gone"
+                    android:id="@+id/tv_trending"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:textSize="20sp"
+                    android:textColor="@color/text_color_title"
+                    android:text="@string/trending"
+                    android:fontFamily="@font/inter_24pt_bold"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/rcl_wallpaper_curated" />
+
+                <ImageView
+                    android:id="@+id/im_show_more_trending"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:background="@drawable/custom_bg_arrow"
+                    android:clickable="true"
+                    android:visibility="gone"
+                    android:focusable="true"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_arow_right"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_trending"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/tv_trending" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcl_wallpaper"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/im_show_more_trending"
+                    app:spanCount="2"
+                    android:visibility="gone"
+                    tools:itemCount="10"
+                    tools:listitem="@layout/item_wallpaper" />
+
+                <TextView
+                    android:id="@+id/tv_featured"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:textSize="20sp"
+                    android:visibility="gone"
+                    android:textColor="@color/text_color_title"
+                    android:text="@string/featured"
+                    android:fontFamily="@font/inter_24pt_bold"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/rcl_wallpaper" />
+
+                <ImageView
+                    android:id="@+id/im_show_more_featured"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16sdp"
+                    android:background="@drawable/custom_bg_arrow"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:visibility="gone"
+                    android:padding="@dimen/_8sdp"
+                    android:src="@drawable/ic_arow_right"
+                    app:layout_constraintBottom_toBottomOf="@id/tv_featured"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/tv_featured" />
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/rcl_wallpaper_featured"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginHorizontal="@dimen/_8sdp"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:clipToPadding="false"
+                    android:paddingBottom="@dimen/_150sdp"
+                    android:visibility="gone"
+                    app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/im_show_more_featured"
+                    app:spanCount="2"
+                    tools:itemCount="10"
+                    tools:listitem="@layout/item_wallpaper" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+</layout>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
+    <string-array name="list_intro">
+        <item>Walper rend la recherche et l\'utilisation de papiers peints élégants plus faciles que jamais. C\'est vraiment la seule application de fond d\'écran dont vous avez besoin.</item>
+        <item><![CDATA[Avec de nouveaux fonds d\'écran ajoutés chaque semaine, vous serez sûr de trouver le papier parfait pour votre espace. Faites votre choix parmi nos nombreuses catégories comme les résumés, les animaux, les plantes, les cartes du monde et plus encore !]]></item>
+        <item><![CDATA[Rechercher des fonds d’écran sur Internet prend trop de temps ! Walper est la première application de ce type à proposer une sélection de modèles de papiers peints triés sur le volet. Vous trouverez toujours ce que vous cherchez et quelque chose de nouveau à chaque fois.]]></item>
+    </string-array>
+    <string-array name="list_intro_bottom">
+        <item>créez des fonds d\'écran uniques.</item>
+        <item>votre collection personnelle.</item>
+        <item><![CDATA[en un seul clic !]]></item>
+    </string-array>
+    <string-array name="list_intro_top">
+        <item>Téléchargez vos photos et</item>
+        <item>Sélectionnez vos images préférées parmi</item>
+        <item>Définissez vos photos comme fonds d\'écran avec</item>
+    </string-array>
+    <string-array name="list_language">
+        <item name="item">English</item>
+        <item name="item">Vietnamese</item>
+        <item name="item">Italian</item>
+        <item name="item">Portuguese</item>
+        <item name="item">Indian</item>
+        <item name="item">French</item>
+    </string-array>
+    <string-array name="list_title">
+        <item>Seule application de fond d\'écran ! Vous en aurez besoin.</item>
+        <item>Choisissez parmi différentes collections</item>
+        <item>Restez à jour, ne manquez rien.</item>
+    </string-array>
+    <string-array name="spinner_items">
+        <item>Exclusif</item>
+        <item>Récent</item>
+        <item>Tendance</item>
+    </string-array>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d nouvelle notification</item>
+    <item quantity="other">%d nouvelles notifications</item>
+  </plurals>
+    <string name="Creative">Créatif</string>
+    <string name="_1207_listed_wallpapers_from_abstract_collection">fonds d\'écran répertoriés de</string>
+    <string name="_2690_wallpapers">2690 Fonds d\'écran</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Autres options"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"OK"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NON"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"OUI"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"supprimer"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"entrée"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Fonction+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Méta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Maj+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"espace"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Partager avec <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="allow">Permettre</string>
+    <string name="allow_wallpaper_to_access_photos_on_this_device">Autoriser Wallpaper à accéder aux photos sur cet appareil</string>
+    <string name="app_name">Papier peint</string>
+    <string name="apply">Appliquer</string>
+    <string name="are_you_sure_want_to_remove_this_item"><![CDATA[Etes-vous sûr de vouloir supprimer cet élément \?]]></string>
+    <string name="author">Auteur</string>
+    <string name="beautiful_free_stock_photos_with_over_1_million_photos_and_videos_shared_by_our_talented_community">De belles photos gratuites avec plus d’un million de photos partagées par notre talentueuse communauté.</string>
+    <string name="both">Les deux</string>
+    <string name="bottomsheet_action_collapse">Réduire la bottom sheet</string>
+    <string name="bottomsheet_action_expand">Développer la bottom sheet</string>
+    <string name="bottomsheet_action_expand_halfway">Développer en entier</string>
+    <string name="bottomsheet_drag_handle_clicked">A appuyé deux fois sur la poignée de déplacement</string>
+    <string name="bottomsheet_drag_handle_content_description">Poignée de déplacement</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Répondre"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Vidéo"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Refuser"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Raccrocher"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Appel entrant"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Appel en cours"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filtrage d\'un appel entrant"</string>
+    <string name="category">Catégorie</string>
+    <string name="character_counter_content_description">Caractères saisis %1$d sur %2$d</string>
+    <string name="character_counter_overflowed_content_description">Nombre maximal de caractères dépassé : %1$d sur %2$d</string>
+    <string name="clear_text_end_icon_content_description">Effacer le texte</string>
+    <string msgid="406453423630273620" name="close_drawer">"Fermer le menu de navigation"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Fermer la feuille"</string>
+    <string name="collection">Collection</string>
+    <string name="collections">Collections</string>
+    <string name="colorful">Coloré</string>
+    <string name="content_permission">Pour utiliser une photo comme fond d\'écran, veuillez autoriser Wallpaper à accéder à vos photos et vidéos.</string>
+    <string name="create_your_own_wallpaper_from_your_collection">Créez votre propre fond d\'écran à partir de votre collection</string>
+    <string name="crop_wallpaper">Fond d\'écran de culture</string>
+    <string name="curated">Organisé</string>
+    <string name="curated_wallpaper">Fond d\'écran organisé</string>
+    <string name="dark_theme">Thème sombre</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Données incorrectes"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Fenêtre pop-up"</string>
+    <string name="delete">Supprimer</string>
+    <string name="done">Fait</string>
+    <string name="donit_see_what_you_need_add_some_filters_to_narrow_down_your_results"><![CDATA[Vous ne voyez pas ce dont vous avez besoin \? Ajoutez des filtres pour affiner vos résultats.]]></string>
+    <string name="download">Télécharger</string>
+    <string name="download_success">Succès du téléchargement</string>
+    <string name="downloading_please_wait">Téléchargement, veuillez patienter…</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Menu déroulant"</string>
+    <string name="enable_notifications">Activer les notifications</string>
+    <string name="enjoying_chat_app">Profiter de l\'application Wallpaper</string>
+    <string name="error_a11y_label">Erreur : Non valide</string>
+    <string name="error_icon_content_description">Erreur</string>
+    <string name="exclusive_first">Exclusif d\'abord</string>
+    <string name="exo_download_completed">Téléchargement terminé</string>
+    <string name="exo_download_description">Télécharger</string>
+    <string name="exo_download_downloading">Téléchargement…</string>
+    <string name="exo_download_failed">Échec du téléchargement</string>
+    <string name="exo_download_notification_channel_name">Téléchargements</string>
+    <string name="exo_download_paused">Téléchargements mis en pause</string>
+    <string name="exo_download_paused_for_network">Téléchargements en attente de réseau</string>
+    <string name="exo_download_paused_for_wifi">Téléchargements en attente de Wi-Fi</string>
+    <string name="exo_download_removing">Suppression des téléchargements…</string>
+    <string name="explore_our_millions_of_wallpapers">Explorez nos millions de fonds d\'écran</string>
+    <string name="exposed_dropdown_menu_content_description">Afficher le menu déroulant</string>
+    <string name="favorites">Favoris</string>
+    <string name="featured">En vedette.</string>
+    <string name="filters">Filtres</string>
+    <string name="get_started">Commencer</string>
+    <string name="go_to_settings">Aller aux paramètres</string>
+    <string name="here_are_all_the_wallpapers_you_ve_viewed_recently">Voici tous les fonds d\'écran que vous avez vus récemment</string>
+    <string name="home">Maison</string>
+    <string name="home_screen">Écran d\'accueil</string>
+    <string name="how_would_you_rate_our_service">Comment évalueriez-vous notre service \?</string>
+    <string name="icon_content_description">Icône de la boîte de dialogue</string>
+    <string msgid="6827826412747255547" name="in_progress">"En cours"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Partiellement coché"</string>
+    <string name="intro_item_1">Walper rend la recherche et l\'utilisation de papiers peints élégants plus faciles que jamais. c\'est vraiment la seule application de fond d\'écran dont vous avez besoin.</string>
+    <string name="intro_item_2"><![CDATA[Avec de nouveaux fonds d\'écran ajoutés chaque semaine, vous serez sûr de trouver le papier parfait pour votre espace. Choisissez parmi nos nombreuses catégories comme les résumés, les animaux, les plantes, les cartes du monde et plus encore !]]></string>
+    <string name="intro_item_3"><![CDATA[Rechercher des fonds d’écran sur Internet prend trop de temps ! Walper est la première application de ce type à proposer une sélection de modèles de papiers peints triés sur le volet. Vous trouverez toujours ce que vous cherchez et quelque chose de nouveau à chaque fois.]]></string>
+    <string name="item_view_role_description">Tabulation</string>
+    <string name="language">Langue</string>
+    <string name="latest_uploads">Derniers téléchargements</string>
+    <string name="loading">Chargement ...</string>
+    <string name="lock_screen">Écran de verrouillage</string>
+    <string name="material_clock_toggle_content_description">Sélectionner le format AM ou PM</string>
+    <string name="material_hour_24h_suffix">%1$s heures</string>
+    <string name="material_hour_selection">Sélectionnez une heure</string>
+    <string name="material_hour_suffix">%1$s h</string>
+    <string name="material_minute_selection">Sélectionner des minutes</string>
+    <string name="material_minute_suffix">%1$s min</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Passer en mode horloge pour la saisie de l\'heure.</string>
+    <string name="material_timepicker_hour">Heure</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Sélectionner l\'heure</string>
+    <string name="material_timepicker_text_input_mode_description">Passer en mode saisie de texte pour la saisie de l\'heure.</string>
+    <string name="maybe_latter">Peut-être plus tard</string>
+    <string name="most_downloaded">Les plus téléchargés</string>
+    <string name="mtrl_badge_numberless_content_description">Nouvelle notification</string>
+    <string name="mtrl_checkbox_state_description_checked">Cochée</string>
+    <string name="mtrl_checkbox_state_description_indeterminate">Partiellement cochée</string>
+    <string name="mtrl_checkbox_state_description_unchecked">Non cochée</string>
+    <string name="mtrl_chip_close_icon_content_description">Supprimer %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">Plus de %1$d nouvelles notifications</string>
+    <string name="mtrl_picker_a11y_next_month">Passer au mois suivant</string>
+    <string name="mtrl_picker_a11y_prev_month">Passer au mois précédent</string>
+    <string name="mtrl_picker_announce_current_range_selection">Date de début sélectionnée : %1$s – Date de fin sélectionnée : %2$s</string>
+    <string name="mtrl_picker_announce_current_selection">Sélection actuelle : %1$s</string>
+    <string name="mtrl_picker_announce_current_selection_none">aucune</string>
+    <string name="mtrl_picker_cancel">Annuler</string>
+    <string name="mtrl_picker_confirm">OK</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Sélectionnez une date</string>
+    <string name="mtrl_picker_date_header_unselected">Date sélectionnée</string>
+    <string name="mtrl_picker_day_of_week_column_header">%1$s</string>
+    <string name="mtrl_picker_end_date_description">Date de fin : %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format incorrect.</string>
+    <string name="mtrl_picker_invalid_format_example">Exemple : %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Utiliser %1$s</string>
+    <string name="mtrl_picker_invalid_range">Plage non valide.</string>
+    <string name="mtrl_picker_navigate_to_current_year_description">Accéder à l\'année en cours : %1$d</string>
+    <string name="mtrl_picker_navigate_to_year_description">Accéder à l\'année %1$d</string>
+    <string name="mtrl_picker_out_of_range">Hors limite : %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Date de début – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Date de fin</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
+    <string name="mtrl_picker_range_header_title">Sélectionnez une période</string>
+    <string name="mtrl_picker_range_header_unselected">Date de début – Date de fin</string>
+    <string name="mtrl_picker_save">Enregistrer</string>
+    <string name="mtrl_picker_start_date_description">Date de début : %1$s</string>
+    <string name="mtrl_picker_text_input_date_hint">Date</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Date de fin</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Date de début</string>
+    <string name="mtrl_picker_text_input_day_abbr">j</string>
+    <string name="mtrl_picker_text_input_month_abbr">m</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_today_description">Aujourd\'hui : %1$s</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Passer au mode de saisie Agenda</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Appuyer pour passer à la vue \"Agenda\"</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Passer au mode de saisie Texte</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Appuyer pour passer à la vue \"Année\"</string>
+    <string name="mtrl_timepicker_cancel">Annuler</string>
+    <string name="mtrl_timepicker_confirm">OK</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Remonter"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Ouvrir le panneau de navigation"</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Menu de navigation"</string>
+    <string name="newest_collection">Nouvelle collection</string>
+    <string name="next">Suivant</string>
+    <string name="no_thanks">Non merci</string>
+    <string msgid="6610465462668679431" name="not_selected">"Non sélectionné"</string>
+    <string name="notification">Notification</string>
+    <string msgid="875452955155264703" name="off">"Désactivé"</string>
+    <string name="oh_no_results_found">Oh, aucun résultat trouvé</string>
+    <string name="oh_no_wallpaper_downloaded">Oh, vous n\'avez pas encore téléchargé de fonds d\'écran.</string>
+    <string msgid="8655164131929253426" name="on">"Activé"</string>
+    <string name="oops_no_favorites_to_display">Aucun favori à afficher</string>
+    <string name="password_toggle_content_description">Afficher le mot de passe</string>
+    <string name="permission_picture">photo d\'autorisation</string>
+    <string name="photo">Photo</string>
+    <string name="please_download_wallpaper_first">Veuillez d\'abord télécharger le fond d\'écran</string>
+    <string name="privacy_policy">politique de confidentialité</string>
+    <string name="quick_apply">Candidature rapide</string>
+    <string msgid="5941395253238309765" name="range_end">"Fin de plage"</string>
+    <string msgid="7097486360902471446" name="range_start">"Début de plage"</string>
+    <string name="rate_now">Évaluez maintenant</string>
+    <string name="rate_this_app">Notez cette application</string>
+    <string name="recent">Récent</string>
+    <string name="remove_favorite">Supprimer des favoris</string>
+    <string name="remove_item"><![CDATA[Supprimer l\'élément \?]]></string>
+    <string name="save_to_my_favorite">Enregistrer dans mes favoris</string>
+    <string name="search">Recherche</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Rechercher"</string>
+    <string name="searching_through_hundreds_of_photos_will_be_so_much_easier_now">rechercher parmi des centaines de photos sera désormais beaucoup plus facile.</string>
+    <string name="searchview_clear_text_content_description">Effacer le texte</string>
+    <string name="searchview_navigation_content_description">Retour</string>
+    <string name="select_action">Sélectionnez une action</string>
+    <string msgid="6043586758067023" name="selected">"Sélectionné"</string>
+    <string name="set_wallpaper">Définir le papier peint</string>
+    <string name="setting">Paramètre</string>
+    <string name="share">Partager</string>
+    <string name="share_with_friend">Partager avec un ami</string>
+    <string name="side_sheet_accessibility_pane_title">Feuille latérale</string>
+    <string name="skip">Sauter</string>
+    <string name="sort_by_size">Trier par taille</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string msgid="2561197295334830845" name="switch_role">"Changer"</string>
+    <string name="switch_to_day_mode">Passer en mode jour</string>
+    <string name="switch_to_night_mode">Passer en mode nuit</string>
+    <string msgid="1672349317127674378" name="tab">"Onglet"</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> pour cent."</string>
+    <string name="these_are_the_wallpapers_you_downloaded">Ce sont les fonds d\'écran que vous avez téléchargés</string>
+    <string name="title_item_4"><![CDATA[Seule application de fond d\'écran ! Vous en aurez besoin.]]></string>
+    <string name="title_item_5">Choisissez parmi différentes collections</string>
+    <string name="title_item_6">Restez à jour, ne manquez rien.</string>
+    <string name="trending">Tendance</string>
+    <string name="ucrop_label_edit_photo">Modifier la photo</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Recadrer</string>
+    <string name="use_your_photo_as_wallpaper">Utilisez votre photo comme fond d\'écran</string>
+    <string name="vietnamese">vietnamien</string>
+    <string name="wallpaper">Papier peint</string>
+    <string name="wallpaper_set_failure">Échec de la définition du fond d\'écran. Veuillez réessayer.</string>
+    <string name="wallpaper_set_success"><![CDATA[Fond d\'écran posé avec succès !]]></string>
+    <string name="you_ve_marked_all_of_these_as_a_favorite"><![CDATA[Vous avez marqué ces fonds d\'écran comme favoris !]]></string>
+</resources>

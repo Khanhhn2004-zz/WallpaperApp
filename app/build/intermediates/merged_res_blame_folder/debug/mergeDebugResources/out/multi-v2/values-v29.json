@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hnk.wallpaper.app-mergeDebugResources-86:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hak88\\.gradle\\caches\\transforms-4\\4b490e7eca1a5508a807e52e603779f5\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}
